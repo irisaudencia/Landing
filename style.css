@@ -1,0 +1,82 @@
+/* Write some CSS below */
+body {
+  font-family: 'Poppins', sans-serif;
+  color: #404042;
+  font-size: 20px;
+  text-align: center;
+  line-height: 1.6;
+}
+
+h1 {
+  font-family:'Regular 400';
+  color : #ffffff;
+  font-size: 30px;
+  line-height: 1.6; 
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Light300'; 
+  color:#22333b;
+  font-size: 24px;
+  text-align: center;
+  line-height: 1.6; 
+  text-decoration: underline;
+}
+
+h3 {
+	font-family: 'Poppins', sans-serif;
+  color:#3e5c76;
+  font-size: 19px;
+  text-align: center;
+  line-height: 1.6; 
+}
+
+h4 {
+	font-family: 'Poppins', sans-serif;
+  color:#ffffff;
+  font-size: 17px;
+  font-style: italic;
+  text-align: center;
+  line-height: 1.6;
+
+}
+
+h5 {font-family: 'Poppins', sans-serif;
+  color:#ffffff;
+  font-size: 17px;
+  font-style: italic;
+  text-align: center;
+  line-height: 1.6;}
+
+a {
+  color: #748cab;
+  font-size: 20px;
+  font-weight: bold;
+  text-decoration: none;
+  transition: .3s;
+  text-align: center;
+  line-height: 1.6; 
+
+}
+.title {
+background-color: #03045e;
+background-image: url(https://www.ahstatic.com/photos/5451_ho_00_p_1024x768.jpg);
+background-size: cover;
+  background-position: center;
+  padding: 150px 0;
+}
+
+
+.second {
+text-align:initial;
+}
+.entier {
+	background-color:#f5f1ed;
+}
+.prems {display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-gap: 20px;
+}
+
+
